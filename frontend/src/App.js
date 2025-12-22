@@ -256,7 +256,7 @@ const DEMO_WORKFLOW = [
   { 
     delay: 48000, 
     agent: "claim", 
-    message: "All validations passed. Generating claim: CLM-TRV-2026-008432",
+    message: "All validations passed. Generating claim: CLM-TRV-2026-008431-1",
     icon: "check"
   },
   { 
@@ -623,7 +623,7 @@ function App() {
                 <div>
                   <div className="text-xs text-black font-semibold">Claim Number</div>
                   <div className="font-bold text-black" style={{ fontFamily: 'Manrope' }}>
-                    CLM-TRV-2026-008432
+                    CLM-TRV-2026-008431-1
                   </div>
                 </div>
                 <div>
