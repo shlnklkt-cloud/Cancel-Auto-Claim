@@ -84,7 +84,7 @@ const AGENTS = {
   },
   payment: {
     name: "Payment Agent",
-    role: "Compensation Processing & Transfer",
+    role: "Claim Amount Processing & Transfer",
     icon: WalletCards,
     color: "payment"
   }
