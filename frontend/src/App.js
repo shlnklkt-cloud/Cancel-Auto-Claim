@@ -18,7 +18,7 @@ import {
   CheckCircle2,
 } from "lucide-react";
 
-const INCOME_LOGO = "https://customer-assets.emergentagent.com/job_claim-helper-7/artifacts/l8b8tkoj_image.png";
+const INCOME_LOGO = "https://customer-assets.emergentagent.com/job_claim-helper-7/artifacts/y9khswox_image.png";
 
 // Policy Holder Panel Component
 const PolicyHolderPanel = () => (
