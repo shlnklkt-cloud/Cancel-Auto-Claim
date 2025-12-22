@@ -466,12 +466,6 @@ function App() {
                 <div className="text-sm text-black font-medium">{POLICY_DETAILS.coverage}</div>
               </div>
               <div>
-                <div className="text-xs text-black font-semibold">Flight Cancellation Coverage</div>
-                <div className="text-sm font-bold text-[#FF7600]">
-                  {POLICY_DETAILS.flightCancellationCoverage}
-                </div>
-              </div>
-              <div>
                 <div className="text-xs text-black font-semibold">Status</div>
                 <Badge className="bg-emerald-50 text-emerald-700 font-bold hover:bg-emerald-50">
                   {POLICY_DETAILS.status}
