@@ -223,7 +223,7 @@ const DEMO_WORKFLOW = [
   { 
     delay: 38000, 
     agent: "claim", 
-    message: "Coverage: $100/6hrs × 1.5 (Hurricane factor) = $150",
+    message: "Coverage: $150 (Hurricane factor) = $150",
     icon: "dollar"
   },
   { 
