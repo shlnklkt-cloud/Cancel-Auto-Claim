@@ -414,7 +414,7 @@ function App() {
       <header className="header-container" data-testid="header">
         <div className="logo-container">
           <img 
-            src="https://customer-assets.emergentagent.com/job_d1781850-907e-427f-a8ff-1598bb00a1ef/artifacts/k8113pfl_image.png" 
+            src="https://customer-assets.emergentagent.com/job_claim-helper-7/artifacts/wmoz4tgw_image.png" 
             alt="uincome Insurance" 
             className="logo-image"
           />
