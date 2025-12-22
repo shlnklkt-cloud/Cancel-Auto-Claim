@@ -223,13 +223,13 @@ const DEMO_WORKFLOW = [
   { 
     delay: 38000, 
     agent: "claim", 
-    message: "Coverage: $100/6hrs × 1.5 (Hurricane factor) = S $150",
+    message: "Coverage: $100/6hrs × 1.5 (Hurricane factor) = $150",
     icon: "dollar"
   },
   { 
     delay: 40000, 
     agent: "claim", 
-    message: "Claim Amount Calculation Complete: S $150 approved",
+    message: "Claim Amount Calculation Complete: $150 approved",
     icon: "check",
     completeValidation: 5
   },
@@ -287,7 +287,7 @@ const DEMO_WORKFLOW = [
   { 
     delay: 58000, 
     agent: "payment", 
-    message: "Claim payment of S $150 transferred successfully!",
+    message: "Claim payment of $150 transferred successfully!",
     icon: "check",
     showCompletion: true
   }
@@ -629,7 +629,7 @@ function App() {
                 <div>
                   <div className="text-xs text-black font-semibold">Claim Paid Amount</div>
                   <div className="font-bold text-2xl text-emerald-600" style={{ fontFamily: 'Manrope' }}>
-                    S $150
+                    $150
                   </div>
                 </div>
               </div>
